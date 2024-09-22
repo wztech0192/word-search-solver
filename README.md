@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Word Search Solver that can find and highlight words in a given word search puzzle. Written to help my sister to resolve her tedious homework.
+This project is a Word Search Solver that can find and highlight words in a given word search puzzle. It was created to help my sister with her tedious word search homework.
 
 ## Screenshot
 
